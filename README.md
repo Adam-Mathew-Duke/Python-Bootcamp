@@ -13,7 +13,7 @@ Each exercise is aimed at reinforcing foundational skills and understanding core
 ### Programs Folder
 The Programs Folder contains my own Python programs, created to apply the concepts learned in the course. These projects go beyond the course exercises to demonstrate my passion programming. This is where I can really stretch my programming legs and explore all my cool ideas.
 
-* Coming soon!
+* Python MIDI tool - coming soon!
 
 Each program reflects my growing confidence in writing clean, functional Python code.
 
