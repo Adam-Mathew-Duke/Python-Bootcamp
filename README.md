@@ -12,7 +12,7 @@ The Course Folder includes coding exercises from the course materials. These exe
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
 
 ### Programs Folder
-The Programs Folder contains my own Python programs, created to apply the concepts learned in the course. These projects go beyond the course exercises to demonstrate my love for programming and exploring lots of different ideas and concepts through code.
+The Programs Folder contains my own Python programs, created to apply the concepts learned in the course. These projects go beyond the course exercises to demonstrate my growing skills in Python programming.
 
 * Python MIDI tool - coming soon!
 
