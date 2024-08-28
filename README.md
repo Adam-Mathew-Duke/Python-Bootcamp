@@ -1,7 +1,7 @@
 ## Python Introduction
 
 ### Overview
-This repository contains the projects and exercises from my journey through the Complete Python Programming Bootcamp coruse. It serves as a record of my learning process, focusing filling gaps in my Python knowledge to build a strong foundation.
+This repository features projects and exercises from my journey through the Complete Python Programming Bootcamp. It documents my learning process, focusing on filling knowledge gaps and building a strong foundation in Python.
 
 ### Course Folder
 The Course Folder includes coding exercises from the course materials. These exercises cover key topics such as:
@@ -12,9 +12,9 @@ The Course Folder includes coding exercises from the course materials. These exe
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
 
 ### Programs Folder
-The Programs Folder contains my own Python programs, created to apply the concepts learned in the course. These projects go beyond the course exercises to demonstrate my growing skills in Python programming.
+The Programs folder showcases Python projects I've created to apply and extend the concepts learned in the course. These projects go beyond standard exercises, highlighting my developing skills and practical understanding of Python.
 
 * Python MIDI tool - coming soon!
 
-Each program reflects my growing confidence in writing clean, functional Python code.
+Each program demonstrates my increasing confidence in crafting clean, functional Python code.
 
