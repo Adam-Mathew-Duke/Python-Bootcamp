@@ -1,4 +1,4 @@
-## The Complete Python Programming Bootcamp [View Site](https://www.udemy.com/course/pythonbootcamp/?couponCode=OF83024F)
+## The Complete Python Programming Bootcamp ([View Course](https://www.udemy.com/course/pythonbootcamp/?couponCode=OF83024F))
 
 ### Overview
 This repository features projects and exercises from my journey through the Complete Python Programming Bootcamp. It documents my learning process, focusing on filling knowledge gaps and building a strong foundation in Python.
