@@ -7,6 +7,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 
 * Variables (single and multiple assignment)
 * Arithmetic operations (on numbers and strings)
-+ String placeholders (%s from string and %d for integer)
+* String placeholders (%s from string and %d for integer)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
