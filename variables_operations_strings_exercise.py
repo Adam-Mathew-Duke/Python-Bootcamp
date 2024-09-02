@@ -24,24 +24,24 @@ print(a % b) # expected output is 5
 Create a variable called name and store your name in it as a string.
 '''
 name = "Adam"
-print(name)
+print(name) # expected output is Adam
 
 '''
 Create three variables in one line and assign each one a different food item.
 '''
 a,b,c = "Apple","Orange","Pear"
-print(a,b,c)
+print(a,b,c) # expected output is Apple Orange Pear
 
 '''
 Print out "Hello" ten times using arithmetic operators. 
 '''
-print("Hello "*10)
+print("Hello "*10) # expected output is Hello Hello...
 
 '''
 Set your name and age variables in one line with multiple assignment 
 '''
 name,age = "Adam",43
-print(name,age)
+print(name,age) # expected otuput is Adam 43
 
 '''
 Create two strings and then create a
@@ -50,7 +50,7 @@ third variable combining both of the two original strings.
 a = "String1 "
 b = "String2"
 c = a + b
-print(c)
+print(c) # expected output is String1 String2
 
 '''
 Create a string and print the fourth letter of the word. 
@@ -62,7 +62,7 @@ print(a[3]) # expected output is o
 Create a string and print the letters from index 0 to 5.
 '''
 a = "Wonderful"
-print(a[0:6]) # make sure to add one as the last index is not included
+print(a[0:6]) # expected output is Wonder
 
 '''
 Create a variable and print all the letters from the first index until the end.
