@@ -9,5 +9,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * Arithmetic operations (on numbers and strings)
 * String placeholders (%s from string and %d for integer)
 * Strings Operations and Strings exercise (end of lesson challenge)
+* Lists
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
