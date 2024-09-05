@@ -9,8 +9,9 @@ Includes coding exercises from the course materials. These exercises cover key t
 * Arithmetic operations (on numbers and strings)
 * String placeholders (%s from string and %d for integer)
 * Strings Operations and Strings exercise (end of lesson challenge)
-* Lists
-* Dictionaries (each key must be unique)
-* Tuples (similar to lists but are immutable)
+* Lists[]
+* Dictionaries{} (each key must be unique)
+* Tuples() (similar to lists but are immutable)
+* List[], dictionaries{} and tuples()
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
