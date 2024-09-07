@@ -14,5 +14,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * Tuples() (similar to lists but are immutable)
 * List[], dictionaries{} and tuples()
 * Conditional statments (if, else, elif)
+* For loops (iterate of items in a data structure like a list, or with the range function range (0,51,5)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
