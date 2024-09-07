@@ -13,5 +13,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * Dictionaries{} (each key must be unique)
 * Tuples() (similar to lists but are immutable)
 * List[], dictionaries{} and tuples()
+* Conditional statments (if, else, elif)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
