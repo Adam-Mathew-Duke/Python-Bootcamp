@@ -18,5 +18,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * While loops (while a condition is true and control statements break, continue and pass)
 * Try except and comments (catching errors neatly, commenting code single and multi-line comments
 * User functions in Python (including return statements)
+* OOP (object Oriented Programming)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
