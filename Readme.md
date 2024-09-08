@@ -16,5 +16,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * Conditional statments (if, else, elif)
 * For loops (iterate of items in a data structure like a list, or with the range function range (0,51,5)
 * While loops (while a condition is true and control statements break, continue and pass)
+* Try except and comments (catching errors neatly, commenting code single and multi-line comments
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
