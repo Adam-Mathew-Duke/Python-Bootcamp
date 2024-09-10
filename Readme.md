@@ -20,5 +20,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * User functions in Python (including return statements)
 * OOP (object Oriented Programming)
 * Class inheritance (including overwritting functions in the parent class)
+* OS and file input and output (current working directory cwd(), open, close, read, write and append to files)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
