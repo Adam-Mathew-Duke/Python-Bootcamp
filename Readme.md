@@ -22,5 +22,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * Class inheritance (including overwritting functions in the parent class)
 * OS and file input and output (import os, current working directory cwd(), open, close, read, write and append to files)
 * Copy Move Rename files (using the build in module shutil)
+* Deleting files and folders (os and shutil very powerful functions)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
