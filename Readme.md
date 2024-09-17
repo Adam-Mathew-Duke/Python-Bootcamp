@@ -23,5 +23,6 @@ Includes coding exercises from the course materials. These exercises cover key t
 * OS and file input and output (import os, current working directory cwd(), open, close, read, write and append to files)
 * Copy Move Rename files (using the build in module shutil)
 * Deleting files and folders (os and shutil very powerful functions)
+* Reading Microsoft Word Docx (using the Python add on module called python-docx import as docx)
 
 Each exercise is aimed at reinforcing foundational skills and understanding core concepts in Python.
